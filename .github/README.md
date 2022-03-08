@@ -1,8 +1,8 @@
-<img src="https://telegra.ph/file/c0e014ff34f34d1056627.png" align="right" width="200" height="200"/>
+<img src="https://telegra.ph/file/82caf7847b76cfbcf855a.jpg" align="right" width="200" height="200"/>
 
-# Yukki Music Bot <img src="https://img.shields.io/github/v/release/TeamYukki/YukkiMusicBot?color=black&logo=github&logoColor=black&style=social" alt="LICENSE">
+# Ayiin Music Bot <img src="https://img.shields.io/github/v/release/AyiinXd/AyiinMusicBot?color=black&logo=github&logoColor=black&style=social" alt="LICENSE">
 
-[Yukki Music Bot](https://github.com/TeamYukki/YukkiMusicBot) is a Powerful Telegram Music+Video Bot written in Python using Pyrogram and Py-Tgcalls by which you can stream songs, video and even live streams in your group calls via various sources.
+[Ayiin Music Bot](https://github.com/AyiinXd/AyiinMusicBot) is a Powerful Telegram Music+Video Bot written in Python using Pyrogram and Py-Tgcalls by which you can stream songs, video and even live streams in your group calls via various sources.
 
 * Youtube, Soundcloud, Apple Music, Spotify, Resso and Telegram Audios & Videos support.
 * Written from scratch, making it stable and less crashes.
@@ -14,22 +14,22 @@
 
 # 🔗 An Overview
 
-Here's a brief high-level overview of the Yukki Music Bot:
+Here's a brief high-level overview of the Ayiin Music Bot:
 
 This project is based on [Pyrogram](https://github.com/pyrogram) and [Py-Tgcalls](https://github.com/pytgcalls/pytgcalls) . Pyrogram is a modern, elegant and asynchronous MTProto API framework.
 
-* For database, Yukki uses the MongoDB to store data and keys. [MongoDB](https://www.mongodb.com/) is a document database with the scalability and flexibility that you want with the querying and indexing that you need.
+* For database, Ayiin uses the MongoDB to store data and keys. [MongoDB](https://www.mongodb.com/) is a document database with the scalability and flexibility that you want with the querying and indexing that you need.
 * Project uses the bs4 web scrapping for getting many platform details. [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) is a Python library for pulling data out of HTML and XML files.
 * The project uses the font [`Poppins`](../assets/font.ttf) as its main font for the thumbnails.
 * The projects uses attractive images and icons which you can get in [assets](../assets/) directory.
 
-For more information on the technologies that power the Yukki Music Bot, check out the [Docs](https://notreallyshikhar.gitbook.io/YukkiMusicBot/).
+For more information on the technologies that power the Ayiin Music Bot, check out the [Docs](https://notreallyshikhar.gitbook.io/YukkiMusicBot/).
 
 
 
 # ⚡️ Getting Started
 
-### Before deploying Yukki Music Bot , please have a look towards [all available config vars](../config/README.md) , also please check [all available commands](../strings/command.yml) of the project.
+### Before deploying Ayiin Music Bot , please have a look towards [all available config vars](../config/README.md) , also please check [all available commands](../strings/command.yml) of the project.
 
 > If you want to start working with Yukki Music Bot you can either fork or import repo .
 > The official [documentation site](https://notreallyshikhar.gitbook.io/YukkiMusicBot/) contains a lot of information. The best place to start is from the deployment section.
@@ -49,15 +49,15 @@ For more information on the technologies that power the Yukki Music Bot, check o
 
 ## 🖇 Generating Pyrogram String Session
 
-- Generate a Pyrogram String Session via [Replit](https://replit.com/@NotReallyShikhar/Yukki-Music-String-Gen)
+- Generate a Pyrogram String Session via [Replit](https://replit.com/@AyiinXd/AyiinString#main)
 
 - Generate a Pyrogram String Session via [Telegram String Generation Bot](https://t.me/AyiinStringRobot)
 
 
 ## 🖇 Heroku Deployment
 
-<h4>Click the button below to deploy Yukki on Heroku!</h4>    
-<a href="https://yukki.tech/deploy/"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a>
+<h4>Click the button below to deploy Ayiin on Heroku!</h4>    
+<a href="https://heroku.com/deploy?template=https://github.com/AyiinXd/AyiinMusicBot"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a>
 
 > Click on buttons below to expand and  detailed explanation process. !
 
@@ -89,7 +89,7 @@ For more information on the technologies that power the Yukki Music Bot, check o
 - Click on the **More Button** present at top right corner .
 - Click on the **View Logs** button from the drop down menu.
 - You check your logs there!
-- Click on save button there at bottom to save your logs and forward it to us on [@YukkiSupport](https://t.me/YukkiSupport) if you face any problem
+- Click on save button there at bottom to save your logs and forward it to us on [@AyiinXdSupport](https://t.me/AyiinXdSupport) if you face any problem
 
 </details>
 
@@ -99,15 +99,15 @@ For more information on the technologies that power the Yukki Music Bot, check o
 
 
 ```console
-shikhar@MacBook~ $ git clone https://github.com/notreallyshikhar/YukkiMusicBot
-shikhar@MacBook~ $ cd YukkiMusicBot
-shikhar@MacBook~ $ sudo bash setup
+ayiin@MacBook~ $ git clone https://github.com/AyiinXd/AyiinMusicBot
+ayiin@MacBook~ $ cd AyiinMusicBot
+ayiin@MacBook~ $ sudo bash setup
 ```
 > Setup will install each and every requirement, nodejs and pip packages automatically. After successfull installation of requirements , setup will ask you to input your vars.
 > Please input your vars correctly.
 
 ```console
-shikhar@MacBook~ $ bash start
+ayiin@MacBook~ $ bash start
 ```
 
 > Not Getting VPS Method? [Watch Tutorial](https://t.me/TheYukki/2275)
@@ -120,15 +120,15 @@ shikhar@MacBook~ $ bash start
 
 Reach out to the maintainer at one of the following places:
 
-- [GitHub Issues](https://github.com/TeamYukki/YukkiMusicBot/issues/new?assignees=&labels=question&template=SUPPORT_QUESTION.md&title=support%3A+)
-- Contact options listed on [this GitHub profile](https://github.com/TeamYukki)
-- [Telegram Support](https://t.me/YukkiSupport)
+- [GitHub Issues](https://github.com/AyiinXd/AyiinMusicBot/issues/new?assignees=&labels=question&template=SUPPORT_QUESTION.md&title=support%3A+)
+- Contact options listed on [this GitHub profile](https://github.com/AyiinXd)
+- [Telegram Support](https://t.me/AyiinXdSupport)
 
 ## 🎗 Project assistance
 
-If you want to say **thank you** or/and support active development of YukkiMusicBot:
+If you want to say **thank you** or/and support active development of AyiinMusicBot:
 
-- Add a [GitHub Star](https://github.com/TeamYukki/YukkiMusicBot) to the project.
+- Add a [GitHub Star](https://github.com/AyiinXd/AyiinMusicBot) to the project.
 - Fork the Repo :)
 - Write interesting articles about the project on [Dev.to](https://dev.to/), [Medium](https://medium.com/) or your personal blog.
 
@@ -151,20 +151,20 @@ For a full list of all authors and contributors, see [the contributors page](htt
 
 ## ⚠️ Security
 
-YukkiMusicBot follows good practices of security, but 100% security cannot be assured. YukkiMusicBot is provided **"as is"** without any **warranty**. Use at your own risk.
+AyiinMusicBot follows good practices of security, but 100% security cannot be assured. YukkiMusicBot is provided **"as is"** without any **warranty**. Use at your own risk.
 
 For more information and to report security issues, please refer to our [`SECURITY.md`](SECURITY.md)
 
 
 ## 🗂 License
 
-This project is licensed under the **GNU General Public License v3**. All designs were created by [@NotReallyShikhar](https://github.com/NotReallyShikhar) .
+This project is licensed under the **GNU General Public License v3**. All designs were created by [@AyiinXd](https://github.com/AyiinXd) .
 
 See [LICENSE](../LICENSE) for more information.
 
 ## 📑 Acknowledgements
 
-Special thanks to these amazing projects/people which/who help power Yukki Music Bot:
+Special thanks to these amazing projects/people which/who help power Ayiin Music Bot:
 
 - [Pyrogram](https://github.com/pyrogram/pyrogram)
 - [Py-Tgcalls](https://github.com/pytgcalls/pytgcalls)
