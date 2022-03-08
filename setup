@@ -25,7 +25,7 @@ node(){
 
 
 repo(){
-	git clone https://github.com/notreallyshikhar/AyiinMusicBot &&  cd AyiinMusicBot
+	git clone https://github.com/AyiinXd/AyiinMusicBot &&  cd AyiinMusicBot
 }
 
 
