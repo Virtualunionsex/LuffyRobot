@@ -56,7 +56,7 @@ HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 # For customized or modified Repository
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/NotReallyShikhar/YukkiMusicBot",
+    "https://github.com/AyiinXd/AyiinMusicBot
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 
@@ -115,7 +115,7 @@ CLEANMODE_DELETE_MINS = int(
     getenv("CLEANMODE_MINS", "5")
 )  # Remember to give value in Seconds
 
-# You'll need a Pyrogram String Session for these vars. Generate String from our session generator bot @YukkiStringBot
+# You'll need a Pyrogram String Session for these vars. Generate String from our session generator bot @AyiinStringRobot
 STRING1 = getenv("STRING_SESSION", None)
 STRING2 = getenv("STRING_SESSION2", None)
 STRING3 = getenv("STRING_SESSION3", None)
@@ -135,7 +135,7 @@ STRING5 = getenv("STRING_SESSION5", None)
 BANNED_USERS = filters.user()
 YTDOWNLOADER = 1
 LOG = 2
-LOG_FILE_NAME = "Yukkilogs.txt"
+LOG_FILE_NAME = "Ayiinlogs.txt"
 adminlist = {}
 lyrical = {}
 chatstats = {}

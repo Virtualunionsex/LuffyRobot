@@ -23,7 +23,7 @@ This project is based on [Pyrogram](https://github.com/pyrogram) and [Py-Tgcalls
 * The project uses the font [`Poppins`](../assets/font.ttf) as its main font for the thumbnails.
 * The projects uses attractive images and icons which you can get in [assets](../assets/) directory.
 
-For more information on the technologies that power the Yukki Music Bot, check out the [Docs](https://notreallyshikhar.gitbook.io/yukkimusicbot/).
+For more information on the technologies that power the Yukki Music Bot, check out the [Docs](https://notreallyshikhar.gitbook.io/YukkiMusicBot/).
 
 
 
@@ -32,7 +32,7 @@ For more information on the technologies that power the Yukki Music Bot, check o
 ### Before deploying Yukki Music Bot , please have a look towards [all available config vars](../config/README.md) , also please check [all available commands](../strings/command.yml) of the project.
 
 > If you want to start working with Yukki Music Bot you can either fork or import repo .
-> The official [documentation site](https://notreallyshikhar.gitbook.io/yukkimusicbot/) contains a lot of information. The best place to start is from the deployment section.
+> The official [documentation site](https://notreallyshikhar.gitbook.io/YukkiMusicBot/) contains a lot of information. The best place to start is from the deployment section.
 > If you'd like to talk to us, join us on our [Telegram Group](https://t.me/YukkiSupport)
 
 
@@ -44,14 +44,14 @@ For more information on the technologies that power the Yukki Music Bot, check o
 - [Telegram API Key](https://docs.pyrogram.org/intro/setup#api-keys)
 - [Telegram Bot Token](https://t.me/botfather)
 - [MongoDB URI](https://telegra.ph/How-To-get-Mongodb-URI-04-06)
-- [Pyrogram String Session](https://notreallyshikhar.gitbook.io/yukkimusicbot/deployment/string-session)
+- [Pyrogram String Session](https://notreallyshikhar.gitbook.io/YukkiMusicBot/deployment/string-session)
 
 
 ## 🖇 Generating Pyrogram String Session
 
 - Generate a Pyrogram String Session via [Replit](https://replit.com/@NotReallyShikhar/Yukki-Music-String-Gen)
 
-- Generate a Pyrogram String Session via [Telegram String Generation Bot](https://t.me/YukkiStringBot)
+- Generate a Pyrogram String Session via [Telegram String Generation Bot](https://t.me/AyiinStringRobot)
 
 
 ## 🖇 Heroku Deployment
@@ -95,7 +95,7 @@ For more information on the technologies that power the Yukki Music Bot, check o
 
 ## 🖇 VPS Deployment
 
-> Checkout [Docs](https://notreallyshikhar.gitbook.io/yukkimusicbot/deployment/local-hosting-or-vps) for Detailed Explanation on VPS Deploy
+> Checkout [Docs](https://notreallyshikhar.gitbook.io/YukkiMusicBot/deployment/local-hosting-or-vps) for Detailed Explanation on VPS Deploy
 
 
 ```console
@@ -120,7 +120,7 @@ shikhar@MacBook~ $ bash start
 
 Reach out to the maintainer at one of the following places:
 
-- [GitHub Issues](https://github.com/TeamYukki/yukkimusicbot/issues/new?assignees=&labels=question&template=SUPPORT_QUESTION.md&title=support%3A+)
+- [GitHub Issues](https://github.com/TeamYukki/YukkiMusicBot/issues/new?assignees=&labels=question&template=SUPPORT_QUESTION.md&title=support%3A+)
 - Contact options listed on [this GitHub profile](https://github.com/TeamYukki)
 - [Telegram Support](https://t.me/YukkiSupport)
 
