@@ -1,9 +1,9 @@
 #
-# Copyright (C) 2021-2022 by TeamYukki@Github, < https://github.com/TeamYukki >.
+# Copyright (C) 2021-2022 by AyiinXd@Github, < https://github.com/AyiinXd >.
 #
-# This file is part of < https://github.com/TeamYukki/YukkiMusicBot > project,
+# This file is part of < https://github.com/AyiinXd/AyiinMusicBot > project,
 # and is released under the "GNU v3.0 License Agreement".
-# Please see < https://github.com/TeamYukki/YukkiMusicBot/blob/master/LICENSE >
+# Please see < https://github.com/AyiinXd/AyiinMusicBot/blob/master/LICENSE >
 #
 # All rights reserved.
 
@@ -17,6 +17,7 @@ from pyrogram import filters, types
 from pyrogram.types import (InlineKeyboardButton,
                             InlineKeyboardMarkup, InputMediaPhoto)
 
+from pytgcalls.__version__ import __version__ as pytgver
 import config
 from config import BANNED_USERS, MUSIC_BOT_NAME
 from strings import get_command, get_string
@@ -479,6 +480,7 @@ async def overall_stats(client, CallbackQuery, _):
 
 **Python Version:** {pyver.split()[0]}
 **Pyrogram Version :** {pyrover}
+**Py-TgCalls Version :** {pytgver}
 
 **Storage Avail:** {total[:4]} GiB
 **Storage Used:** {used[:4]} GiB
