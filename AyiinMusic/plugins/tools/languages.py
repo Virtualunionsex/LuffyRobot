@@ -1,9 +1,9 @@
 #
-# Copyright (C) 2021-2022 by TeamYukki@Github, < https://github.com/TeamYukki >.
+# Copyright (C) 2021-2022 by AyiinXd@Github, < https://github.com/AyiinXd >.
 #
-# This file is part of < https://github.com/TeamYukki/YukkiMusicBot > project,
+# This file is part of < https://github.com/AyiinXd/AyiinMusicBot > project,
 # and is released under the "GNU v3.0 License Agreement".
-# Please see < https://github.com/TeamYukki/YukkiMusicBot/blob/master/LICENSE >
+# Please see < https://github.com/AyiinXd/AyiinMusicBot/blob/master/LICENSE >
 #
 # All rights reserved.
 
@@ -25,28 +25,23 @@ def lanuages_keyboard(_):
     keyboard = InlineKeyboard(row_width=2)
     keyboard.row(
         InlineKeyboardButton(
-            text="🏴󠁧󠁢󠁥󠁮󠁧󠁿 English",
-            callback_data=f"languages:en",
+            text="🏴󠁧󠁢󠁥󠁮󠁧󠁿 English", callback_data=f"languages:en",
         ),
         InlineKeyboardButton(
-            text="🇮🇳 हिन्दी",
-            callback_data=f"languages:hi",
+            text="🇮🇳 हिन्दी", callback_data=f"languages:hi",
         ),
     )
     keyboard.row(
         InlineKeyboardButton(
-            text="🇱🇰 සිංහල",
-            callback_data=f"languages:si",
+            text="🇱🇰 සිංහල", callback_data=f"languages:si",
         ),
-        # InlineKeyboardButton(
-        #    text="🇪🇸 Español",
-        # callback_data=f"languages:es",
-        #  ),
+        InlineKeyboardButton(
+            text="🇮🇩 Indonesia", callback_data=f"languages:id",
+        ),
     )
     keyboard.row(
         InlineKeyboardButton(
-            text=_["BACK_BUTTON"],
-            callback_data=f"settingsback_helper",
+            text=_["BACK_BUTTON"], callback_data=f"settingsback_helper",
         ),
         InlineKeyboardButton(
             text=_["CLOSE_BUTTON"], callback_data=f"close"
