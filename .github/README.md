@@ -23,7 +23,7 @@ This project is based on [Pyrogram](https://github.com/pyrogram) and [Py-Tgcalls
 * The project uses the font [`Poppins`](../assets/font.ttf) as its main font for the thumbnails.
 * The projects uses attractive images and icons which you can get in [assets](../assets/) directory.
 
-For more information on the technologies that power the Ayiin Music Bot, check out the [Docs](https://notreallyshikhar.gitbook.io/YukkiMusicBot/).
+For more information on the technologies that power the Ayiin Music Bot, check out the [Docs](https://notreallyshikhar.gitbook.io/AyiinMusicBot/).
 
 
 
@@ -31,8 +31,8 @@ For more information on the technologies that power the Ayiin Music Bot, check o
 
 ### Before deploying Ayiin Music Bot , please have a look towards [all available config vars](../config/README.md) , also please check [all available commands](../strings/command.yml) of the project.
 
-> If you want to start working with Yukki Music Bot you can either fork or import repo .
-> The official [documentation site](https://notreallyshikhar.gitbook.io/YukkiMusicBot/) contains a lot of information. The best place to start is from the deployment section.
+> If you want to start working with Ayiin Music Bot you can either fork or import repo .
+> The official [documentation site](https://notreallyshikhar.gitbook.io/AyiinMusicBot/) contains a lot of information. The best place to start is from the deployment section.
 > If you'd like to talk to us, join us on our [Telegram Group](https://t.me/YukkiSupport)
 
 
@@ -44,7 +44,7 @@ For more information on the technologies that power the Ayiin Music Bot, check o
 - [Telegram API Key](https://docs.pyrogram.org/intro/setup#api-keys)
 - [Telegram Bot Token](https://t.me/botfather)
 - [MongoDB URI](https://telegra.ph/How-To-get-Mongodb-URI-04-06)
-- [Pyrogram String Session](https://notreallyshikhar.gitbook.io/YukkiMusicBot/deployment/string-session)
+- [Pyrogram String Session](https://notreallyshikhar.gitbook.io/AyiinMusicBot/deployment/string-session)
 
 
 ## 🖇 Generating Pyrogram String Session
@@ -95,7 +95,7 @@ For more information on the technologies that power the Ayiin Music Bot, check o
 
 ## 🖇 VPS Deployment
 
-> Checkout [Docs](https://notreallyshikhar.gitbook.io/YukkiMusicBot/deployment/local-hosting-or-vps) for Detailed Explanation on VPS Deploy
+> Checkout [Docs](https://notreallyshikhar.gitbook.io/AyiinMusicBot/deployment/local-hosting-or-vps) for Detailed Explanation on VPS Deploy
 
 
 ```console
@@ -135,7 +135,7 @@ If you want to say **thank you** or/and support active development of AyiinMusic
 PS: You can buy me a coffee too :)
 <p><a href="https://www.buymeacoffee.com/notreallysy" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 35px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
 
-Together, we can make YukkiMusicBot **better**!
+Together, we can make AyiinMusicBot **better**!
 
 ## ✍🏻 Contributing
 
@@ -145,13 +145,13 @@ Please read [our contribution guidelines](CONTRIBUTING.md), and thank you for be
 
 ## 👨🏻‍💻 Authors & contributors
 
-The original setup of this repository is by [Team Yukki](https://github.com/TeamYukki).
+The original setup of this repository is by [Team Yukki](https://github.com/AyiinXd).
 
-For a full list of all authors and contributors, see [the contributors page](https://github.com/TeamYukki/YukkiMusicBot/contributors).
+For a full list of all authors and contributors, see [the contributors page](https://github.com/AyiinXd/AyiinMusicBot/contributors).
 
 ## ⚠️ Security
 
-AyiinMusicBot follows good practices of security, but 100% security cannot be assured. YukkiMusicBot is provided **"as is"** without any **warranty**. Use at your own risk.
+AyiinMusicBot follows good practices of security, but 100% security cannot be assured. AyiinMusicBot is provided **"as is"** without any **warranty**. Use at your own risk.
 
 For more information and to report security issues, please refer to our [`SECURITY.md`](SECURITY.md)
 
