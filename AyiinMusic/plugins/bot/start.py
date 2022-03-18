@@ -100,7 +100,9 @@ async def start_comm(client, message: Message, _):
                 sender_name = message.from_user.first_name
                 return await app.send_message(
                     config.LOG_GROUP_ID,
-                    f"{message.from_user.mention} has just started bot to check <code>SUDOLIST</code>\n\n**USER ID:** {sender_id}\n**USER NAME:** {sender_name}",
+                    f"{message.from_user.mention} Bᴀʀᴜ Sᴀᴊᴀ Mᴇᴍᴜʟᴀɪ Bᴏᴛ Uɴᴛᴜᴋ Mᴇᴍᴇʀɪᴋᴀ <code>SUDOLIST</code>\n\n"
+                    f"**Usᴇʀ ɪᴅ :** {sender_id}\n"
+                    f"**Usᴇʀ Nᴀᴍᴇ :** {sender_name}"
                 )
             return
         if name[0:3] == "lyr":
@@ -169,7 +171,9 @@ async def start_comm(client, message: Message, _):
                 sender_name = message.from_user.first_name
                 return await app.send_message(
                     config.LOG_GROUP_ID,
-                    f"{message.from_user.mention} has just started bot to check <code>VIDEO INFORMATION</code>\n\n**USER ID:** {sender_id}\n**USER NAME:** {sender_name}",
+                    f"{message.from_user.mention} Bᴀʀᴜ Sᴀᴊᴀ Mᴇᴍᴜʟᴀɪ Bᴏᴛ Uɴᴛᴜᴋ Mᴇᴍᴇʀɪᴋᴀ <code>VIDEO INFORMATION</code>\n\n"
+                    f"**Usᴇʀ ɪᴅ :** {sender_id}\n"
+                    f"**Usᴇʀ Nᴀᴍᴇ :** {sender_name}"
                 )
     else:
         try:
@@ -202,7 +206,9 @@ async def start_comm(client, message: Message, _):
             sender_name = message.from_user.first_name
             return await app.send_message(
                 config.LOG_GROUP_ID,
-                f"{message.from_user.mention} has just started Bot.\n\n**USER ID:** {sender_id}\n**USER NAME:** {sender_name}",
+                f"{message.from_user.mention} **Bᴀʀᴜ Sᴀᴊᴀ Mᴇᴍᴜʟᴀɪ Bᴏᴛ.**\n\n"
+                f"**Usᴇʀ ɪᴅ :** {sender_id}\n"
+                f"**Usᴇʀ Nᴀᴍᴇ :** {sender_name}"
             )
 
 
