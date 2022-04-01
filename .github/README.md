@@ -57,7 +57,7 @@ For more information on the technologies that power the Ayiin Music Bot, check o
 ## 🖇 Heroku Deployment
 
 <h4>Click the button below to deploy Ayiin on Heroku!</h4>    
-<a href="https://heroku.com/deploy?template=https://github.com/AyiinXd/Deploy-Music"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a>
+<a href="https://heroku.com/deploy?template=https://github.com/AyiinXd/AyiinMusicBot"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a>
 
 > Click on buttons below to expand and  detailed explanation process. !
 
