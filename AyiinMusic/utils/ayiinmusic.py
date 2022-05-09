@@ -17,7 +17,7 @@ def ayiin(func):
                 await app.get_chat_member(config.MUST_JOIN, message.from_user.id)
             except UserNotParticipant:
                 if config.MUST_JOIN.isalpha():
-                    link = config.MUST_JOIN
+                    link = "https://t.me/" + config.MUST_JOIN
                 else:
                     chat_info = await app.get_chat(config.MUST_JOIN)
                     chat_info.invite_link
