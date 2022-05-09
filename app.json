@@ -67,10 +67,6 @@
         "value": "-1001791960235",
         "required": true
       },
-      "MUST_JOIN": {
-        "description": "Isi dengan username channel atau group tanpa @",
-        "value": "AyiinXdSupport"
-      },
       "DURATION_LIMIT": {
         "description": "Isi Dengan Kemauan Sendiri",
         "value": "15000"
