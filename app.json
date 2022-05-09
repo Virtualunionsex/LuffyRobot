@@ -14,37 +14,37 @@
     "env": {
       "API_ID": {
         "description": "Dapatkan API_ID ini dari https://t.me/AyiinXdSupport Ketik #api Atau Ke https://my.telegram.org",
-        "value": "",
+        "value": "12599108",
         "required": true
       },
       "API_HASH": {
         "description": "Dapatkan API_HASH ini dari https://t.me/AyiinXdSupport Ketik #api Atau Ke https://my.telegram.org",
-        "value": "",
+        "value": "e3f34d6d77dcac41e6766c6d75db4011",
         "required": true
       },
       "AUTO_LEAVING_ASSISTANT": {
         "description": "Jika Anda ingin asisten Anda meninggalkan semua obrolan secara otomatis setelah beberapa waktu.",
-        "value": "True",
+        "value": "False",
         "required": true
       },
       "BOT_TOKEN": {
         "description": "Token Bot Dari BotFather",
-        "value": "",
+        "value": "5259433209:AAFEbFJkU7MXd5eqJyS20BGEOxHbkmcSYCU",
         "required": true
       },
       "MONGO_DB_URI": {
         "description": "Mongo DB URL",
-        "value": "",
+        "value": "mongodb+srv://userbot:userbot@cluster0.xe3hh.mongodb.net/test?myFirstDatabase?retryWrites=true&w=majority",
         "required": true
       },
       "MUSIC_BOT_NAME": {
         "description": "Nama untuk Bot Musik Anda. Tolong jangan gunakan karakter ascii",
-        "value": "",
+        "value": "    Robot X Music Yins",
         "required": true
       },
       "OWNER_ID": {
         "description": "ID pengguna dari pengguna yang ingin Anda tambahkan sebagai PEMILIK. Jika Ingin Menambahkan Beberapa Id harus dipisahkan dengan spasi.",
-        "value": "",
+        "value": "1700405732",
         "required": true
       },
       "STRING_SESSION": {
@@ -64,12 +64,20 @@
       },
       "LOG_GROUP_ID": {
         "description": "ID Grup Log Anda, tambahkan bot Anda dan promosikan sebagai admin dengan hak penuh!. Gunakan hanya Grup. Tolong jangan gunakan ID Channel.",
-        "value": "",
+        "value": "-1001791960235",
         "required": true
       },
       "MUST_JOIN": {
         "description": "Isi dengan username channel atau group tanpa @",
         "value": "AyiinXdSupport"
+      },
+      "DURATION_LIMIT": {
+        "description": "Isi Dengan Kemauan Sendiri",
+        "value": "15000"
+      },
+      "VIDEO_STREAM_LIMIT": {
+        "description": "Isi Dengan Kemauan Sendiri",
+        "value": "15000"
       },
       "UPSTREAM_REPO": {
         "description": "Jika Anda tidak tahu ini, Biarkan apa adanya",
