@@ -10,7 +10,6 @@ def ayiin(func):
         user_id = message.from_user.id
         user_name = message.from_user.first_name
         ppk = "[" + user_name + "](tg://user?id=" + str(user_id) + ")"
-        MUST_JOIN = "https://t.me/AyiinXdSupport"
         if not config.MUST_JOIN:  # Not compulsory
             return
         try:
