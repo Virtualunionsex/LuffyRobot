@@ -49,7 +49,7 @@
       },
       "STRING_SESSION": {
         "description": "Sesi String Pyrogram. Satu Asisten adalah Wajib.",
-        "value": "",
+        "value": "BQCxoHYCtpg2gicg3AY5YjlN5HMg2NlP6Jvn_zzpTqOBDQf6CtFJQbNkpSxsmuKjLh-aZCdgSk4BV3b7F2-4iyPb6WGyydyLdUJ2PJyR2PMIGfdMtyO2NuVd78cZrZCprgCRa8mH83-RmVm80Uugsz79YT03rozRpbsEnF3zKpEK-VpA88MMSo4Fuxo5tL2QiiCSl8K9aiSQIHtsXSv2Eem8lj4jeHkwXHT37o7ZVZjrf8FZZVaNYWj3kAYhxWgNvllgVXwuQUwsOrE5F9a_q7dmFZnDygx6fFnNr6bx7iUq0TPNv0wHA7-G9cX5jPm1flrFOWFktDlqNkpSsf5WTF03dSYA_AA",
         "required": true
       },
       "HEROKU_API_KEY": {
@@ -77,7 +77,7 @@
       },
       "UPSTREAM_REPO": {
         "description": "Jika Anda tidak tahu ini, Biarkan apa adanya",
-        "value": "https://github.com/AyiinXd/AyiinMusicBot",
+        "value": "https://github.com/YinsXd/AyiinMusicBot",
         "required": true
       },
       "UPSTREAM_BRANCH": {
