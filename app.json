@@ -1,13 +1,13 @@
 {
-    "name": "Ayiin Music Bot",
+    "name": "Luffy Music Bot",
     "description": "Telegram Group Calls streaming bot with some useful features, written in Python with Pyrogram and Py-Tgcalls. Supporting platforms like Youtube, Spotify, Resso, AppleMusic, Soundcloud and M3u8 Links.",
-    "logo": "https://telegra.ph/file/82caf7847b76cfbcf855a.jpg",
+    "logo": "https://telegra.ph/file/b1219f6b9e24144284d11.jpg",
     "keywords": [
     "python3",
     "telegram",
     "bot",
-    "Ayiin",
-    "AyiinMusicBot",
+    "Luffy",
+    "LuffyMusicBot",
     "telegram-bot",
     "pyrogram"
     ],
@@ -77,7 +77,7 @@
       },
       "UPSTREAM_REPO": {
         "description": "Jika Anda tidak tahu ini, Biarkan apa adanya",
-        "value": "https://github.com/YinsXd/AyiinMusicBot",
+        "value": "https://github.com/virtualunionsex/LuffyRobot",
         "required": true
       },
       "UPSTREAM_BRANCH": {
@@ -100,7 +100,7 @@
       "formation": {
           "worker": {
               "quantity": 1,
-              "size": "free"
+              "size": "eco"
           }
       },
       "stack": "container"
