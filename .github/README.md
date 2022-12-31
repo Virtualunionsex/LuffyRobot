@@ -1,8 +1,8 @@
-<img src="https://telegra.ph/file/82caf7847b76cfbcf855a.jpg" align="right" width="200" height="200"/>
+<img src="https://telegra.ph/file/b1219f6b9e24144284d11.jpg" align="right" width="200" height="200"/>
 
-# Ayiin Music Bot <img src="https://img.shields.io/github/v/release/TeamYukki/YukkiMusicBot?color=black&logo=github&logoColor=black&style=social" alt="LICENSE">
+# Luffy Music <img src="https://img.shields.io/github/v/release/TeamYukki/YukkiMusicBot?color=black&logo=github&logoColor=black&style=social" alt="LICENSE">
 
-[Ayiin Music Bot](https://github.com/AyiinXd/AyiinMusicBot) is a Powerful Telegram Music+Video Bot written in Python using Pyrogram and Py-Tgcalls by which you can stream songs, video and even live streams in your group calls via various sources.
+[Luffy Music Bot](https://github.com/AyiinXd/AyiinMusicBot) is a Powerful Telegram Music+Video Bot written in Python using Pyrogram and Py-Tgcalls by which you can stream songs, video and even live streams in your group calls via various sources.
 
 * Youtube, Soundcloud, Apple Music, Spotify, Resso and Telegram Audios & Videos support.
 * Written from scratch, making it stable and less crashes.
